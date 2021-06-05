@@ -6,5 +6,5 @@
 * **State management**: _Recoil, Redux .. etc_
 * **Dev-ops**: _Aws Ec2, Nginx, Aws S3, Cloud front_
 * **Design**: _Figma, AdobeXD_
-* **Project**: _The-moment, Jub-Jub .. etc_
+* **Project**: _[The-moment](https://www.notion.so/c09821c718e349a8920f56cd4f4f490a), Jub-Jub .. etc_
 * **Contact me**: _[Instagram](https://www.instagram.com/su_un_woo/), [velog](https://velog.io/@goolgae)_
