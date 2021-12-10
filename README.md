@@ -1,10 +1,5 @@
-## Front-end Developer
+## 📝 좋은 선택을 하기 위해 노력하는 개발자
 
-* **Languages**: _Typescript, Python, Java .. etc_
-* **Frameworks**: _React, NextJs, Svelte, Express .. etc_
-* **Style**: _Styled-components, Emotion, [Vanilla-extract](https://velog.io/@goolgae/vanilla-extract), Sass .. etc_
-* **State management**: _Recoil, Redux .. etc_
-* **Deploy**: _Aws Ec2, Nginx, Aws S3, Cloud front_
-* **Design**: _Figma, AdobeXD_
-* **Project**: _[The-moment](https://www.notion.so/c09821c718e349a8920f56cd4f4f490a), Jub-Jub .. etc_
-* **Contact me**: _[Instagram](https://www.instagram.com/su_un_woo/), [velog](https://velog.io/@sunwoo0706)_
+개발이나 업무에 있어서 **좋은 선택**을 하기 위해서 끊임없이 고민합니다.<br />
+**좋은 선택**을 하기 위한 고민의 폭을 넓히기 위해 경험하고, 도전하는 것을 좋아합니다.<br />
+경험이나 도전의 기회를 얻기 위해 끊임없이 성장하려 노력합니다.
