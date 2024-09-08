@@ -1,1 +1,1 @@
-미니멀! 미니멀! 미니멀!
+hej! visit my [bio](https://bento.me/sunwoo0706)
